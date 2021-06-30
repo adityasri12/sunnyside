@@ -1,0 +1,50 @@
+body{margin-left:-300;margin-top:10;background:lightgrey;zoom:2;-moz-transform:scale(2);-moz-transform-origin: 0 0;}
+*{position:absolute}
+#a{font-family:'Barlow',sans-serif;font-size:18px;z-index:1;color:white;font-weight:600;top:-16;left:410}
+#b{height:280;top:-10;width:480;left:400}
+#c,#f,#d,#e{font-family:'Barlow',sans-serif;font-size:8px;z-index:10;color:white}
+#e{left:755;top:5}
+#f{color:black;top:-3;left:16}
+#g{left:805;height:20;width:60;border-radius:25px;background:white;top:7}
+#c{left:715;top:5}
+#d{left:660;top:5}
+#p,#q,#r,#s{width:245;height:195}
+#p,#s{background:white}
+#p{top:270;left:400}
+#s{top:465;left:635}
+#t,#u,#hi,#bi{width:245;height:195}
+#y,#z{width:330;height:275}
+#t{top:465;left:400}
+#u{top:270;left:635}
+#y{top:660;left:400}
+#z{top:660;left:635}
+.m{font-family:'Barlow',sans-serif;font-size:8px;color:black;top:70;width:150;left:25}
+.l{top:45;left:25;font-family:'Barlow',sans-serif;font-weight:bold;font-size:12}
+.n{top:125;left:25;font-family:'Barlow',sans-serif;font-size:8px;color:black;font-weight:800;text-decoration:underline;text-decoration-color:hsl(51, 100%, 49%)}
+#j{width:200}
+#k{width:175}
+#l{width:100;text-decoration-color:hsl(7, 99%, 70%)}
+#ti,#su{color:hsl(167, 40%, 24%);}#tit,#sub{color:hsl(198, 62%, 26%)}
+#ti,#tit{font-size:12px;font-family:'Barlow',sans-serif;font-weight:bold;z-index:1;top:95;left:85;font-weight:1000}
+#su,#sub{top:120;left:70;font-size:8px;z-index:1;width:100;z-index:1;text-align:center}
+#cl{background:white;width:480;height:300;top:850;left:400}
+#hd{color:grey;font-size:10px;left:150;top:50;letter-spacing:3}
+#ph,#se,#lm{height:30;width:30;border-radius:50%;top:100;left:75}
+#se{left:225}
+#lm{left:375}
+#emi,#jen,#tho{font-size:7px;width:120;top:150;left:20;text-align:center;font-family:'Barlow',sans-serif;font-weight:100}
+#tho{left:180}#jen{left:330}
+#ak,#ik,#tk{top:200;left:75;font-size:8px;color:black;font-weight:bold;width:100}
+#tk{left:225}#ak{left:375}
+#av,#iv,#tv{top:215;left:63;font-size:7px;color:black;width:100}
+#tv{left:213}#av{left:368}
+#ns,#nk,#nt,#nv{width:120;height:150;top:300}
+#ns{left:240}#nt{left:360}#nk{left:120}
+#footer{background:#90d4c5;width:480;height:130;top:450;font-family:'Barlow',sans-serif;font-size:15px}
+#sun{left:210;color:#3d8476}
+#ka,#kk,#kv{top:50;left:175;font-size:8px;color:hsl(168, 34%, 41%);font-weight:bold;width:100}
+#kk{left:225}#kv{left:275}
+#face,#insta,#twee,#pint{top:100;left:210;height:10;width:10}
+#insta{left:230}#twee{left:250}#pint{left:270}
+#gf{color:white;font-size:22px;font-weight:bold;top:46;left:520;width:250;letter-spacing:1}
+#ff{height:40;width:20;left:625;top:120}
