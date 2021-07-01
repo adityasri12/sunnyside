@@ -26,11 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+[ss](https://adityasri12.github.io/sunnyside/design/screenshot.png)
 
 ### Links
 
 - Solution URL: [index.html](https://github.com/adityasri12/sunnyside/blob/main/Design/index.html)
+- Live URL: [Answer](https://adityasri12.github.io/sunnyside/design/)
 
 ## My process
  - Add a css file to the html page
@@ -55,5 +56,5 @@ getting perfect colour and font attributes
 
 ## Author
 
-- Author - [Aditya Srivastava]
+- Website URL - [Aditya Srivastava](https://adityasri12.github.io/sunnyside/design/)
 - Frontend Mentor - [@adityasri12](https://www.frontendmentor.io/profile/yourusername)
