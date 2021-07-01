@@ -30,8 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [index.html](https://github.com/adityasri12/sunnyside/blob/main/Design/index.html)
 
 ## My process
  - Add a css file to the html page
@@ -56,5 +55,5 @@ getting perfect colour and font attributes
 
 ## Author
 
-- Website - [Aditya Srivastava]
+- Author - [Aditya Srivastava]
 - Frontend Mentor - [@adityasri12](https://www.frontendmentor.io/profile/yourusername)
