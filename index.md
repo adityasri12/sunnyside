@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+# Frontend Mentor - Sunnyside agency landing page solution
 
-You can use the [editor on GitHub](https://github.com/adityasri12/sunnyside/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a solution to the [Sunnyside agency landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Table of contents
 
-### Markdown
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+- [Author](#author)
+**Note: Delete this note and update the table of contents based on what sections you keep.**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Overview
 
-```markdown
-Syntax highlighted code block
+### The challenge
 
-# Header 1
-## Header 2
-### Header 3
+Users should be able to:
 
-- Bulleted
-- List
+- View the optimal layout for the site depending on their device's screen size
+- See hover states for all interactive elements on the page
 
-1. Numbered
-2. List
+### Screenshot
 
-**Bold** and _Italic_ and `Code` text
+[ss](https://adityasri12.github.io/sunnyside/design/Screenshot.png)
 
-[Link](url) and ![Image](src)
-```
+### Links
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Solution URL: [index.html](https://github.com/adityasri12/sunnyside/blob/main/Design/index.html)
+- Live URL: [Answer](https://adityasri12.github.io/sunnyside/design/)
 
-### Jekyll Themes
+## My process
+ - Add a css file to the html page
+ - build the header and add grid styled images and boxes
+ - add a footer at last
+ - use styl-guide to get the colours and fonts
+ - and use hit and try method to get the appropriate values for font-size
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adityasri12/sunnyside/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Built with
 
-### Support or Contact
+- CSS custom properties
+- Mobile-first workflow
+- html properties
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### What I learned
+
+getting perfect values
+
+### Continued development
+
+getting perfect colour and font attributes
+
+## Author
+
+- Website URL - [Aditya Srivastava](https://adityasri12.github.io/sunnyside/design/)
+- Frontend Mentor - [@adityasri12](https://www.frontendmentor.io/profile/yourusername)
