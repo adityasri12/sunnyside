@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-[ss](https://adityasri12.github.io/sunnyside/design/screenshot.png)
+[ss](https://adityasri12.github.io/sunnyside/screenshot.png)
 
 ### Links
 
